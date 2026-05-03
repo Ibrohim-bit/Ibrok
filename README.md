@@ -24,13 +24,21 @@ I am a passionate developer based in **Tashkent, Uzbekistan**. I specialize in b
 
 <br>
 
-### 📈 GitHub Stats
-*(Don't forget to replace YOUR_USERNAME with your real GitHub handle below)*
+### ### 📂 Projects
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+#### 🌍 Tourism Platform (In Progress)
+*A modern web application for discovering tours and travel destinations.*
+* [🔗 View Repository](https://github.com/Jonizz14/TourismGo.git) | [🌐 Live Demo](https://your-link.vercel.app)
 
-<br>
+#### 📚 Knowza edTech platform (Completed)
+Test Platform a comprehensive, modern web application designed for educational institutions to conduct online examinations and assessments.*
+* [🔗 View Repository](https://github.com/Jonizz14/Test-App.git) | [🌐 Live Demo](https://knowza-seven.vercel.app)
+
+#### 🏘️ DachaGo (Completed)
+*Web application for finding available cottages across Uzbekistan*
+* [🔗 View Repository](https://github.com/akmaljonmordayev/dachago.uz.git) | [🌐 Live Demo](https://www.dachago.uz)
+
+
 
 ### 🍔 Fun Facts
 * 💇‍♂️ I am into stylish haircuts like the **wolfcut**.
