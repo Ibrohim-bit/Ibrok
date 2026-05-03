@@ -28,17 +28,17 @@ I am a passionate developer based in **Tashkent, Uzbekistan**. I specialize in b
 
 #### 🌍 Tourism Platform (In Progress)
 *A modern web application for discovering tours and travel destinations.*
-*Responsible for the end-to-end frontend architecture, including a dynamic multi-theme engine, real-time pricing calculators, and integrated API consumer layers for a high-traffic tourism platform.*
+* **Responsible for** the end-to-end frontend architecture, including a dynamic multi-theme engine, real-time pricing calculators, and integrated API consumer layers for a high-traffic tourism platform.*
 * [🔗 View Repository](https://github.com/Jonizz14/TourismGo.git) | [🌐 Live Demo](https://your-link.vercel.app)
 
 #### 📚 Knowza edTech platform (Completed)
 *Test Platform a comprehensive, modern web application designed for educational institutions to conduct online examinations and assessments.*
-*Responsible for the UX | UI | Software Testing.*
+* **Responsible for** the UX | UI | Software Testing.*
 * [🔗 View Repository](https://github.com/Jonizz14/Test-App.git) | [🌐 Live Demo](https://knowza-seven.vercel.app)
 
 #### 🏘️ DachaGo (Completed)
 *Web application for finding available cottages across Uzbekistan*
-*Responsible for UI | UX | User | Management System | Client Dashboard.*
+* **Responsible for** UI | UX | User | Management System | Client Dashboard.*
 * [🔗 View Repository](https://github.com/akmaljonmordayev/dachago.uz.git) | [🌐 Live Demo](https://www.dachago.uz)
 
 
